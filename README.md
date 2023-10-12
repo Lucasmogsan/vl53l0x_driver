@@ -27,7 +27,7 @@ The wiring diagram is very simple - just connect the sensor to the Arduino’s I
 
 
  ## Docker
-First, make sure that Docker is installed following the official [Docker Installation Instructions](https://docs.docker.com/engine/install/). It is advisable to also follow the [Linux Post-installation steps](https://docs.docker.com/engine/install/linux-postinstall/).
+Make sure that Docker is installed following the official [Docker Installation Instructions](https://docs.docker.com/engine/install/). It is advisable to also follow the [Linux Post-installation steps](https://docs.docker.com/engine/install/linux-postinstall/).
 
 
 1. Pull the docker image:
